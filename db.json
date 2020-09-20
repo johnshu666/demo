@@ -5,7 +5,7 @@
       "detail": "Post 1",
       "img": "https://images.pexels.com/photos/1919322/pexels-photo-1919322.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
       "favoriteCount": 0,
-      "favorited": false
+      "favorited": true
     },
     {
       "id": 2,
