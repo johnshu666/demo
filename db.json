@@ -2,31 +2,31 @@
   "info": [
     {
       "id": 1,
-      "deatil": "Post 1",
+      "detail": "Post 1",
       "img": "https://images.pexels.com/photos/1919322/pexels-photo-1919322.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
       "favoriteCount": 0,
-      "favorited": false,
+      "favorited": false
     },
     {
       "id": 2,
-      "deatil": "Post 2",
+      "detail": "Post 2",
       "img": "https://images.pexels.com/photos/1919322/pexels-photo-1919322.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
       "favoriteCount": 0,
-      "favorited": false,
+      "favorited": false
     },
     {
       "id": 3,
-      "deatil": " just a practice",
+      "detail": " just a practice",
       "img": "https://images.pexels.com/photos/1919322/pexels-photo-1919322.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
       "favoriteCount": 0,
-      "favorited": false,
+      "favorited": false
     },
     {
       "id": 4,
-      "deatil": "just like you are",
+      "detail": "just like you are",
       "img": "https://images.pexels.com/photos/1919322/pexels-photo-1919322.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
       "favoriteCount": 0,
-      "favorited": false,
+      "favorited": false
     }
   ]
 }
