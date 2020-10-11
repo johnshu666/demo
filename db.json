@@ -28,5 +28,9 @@
       "favoriteCount": 0,
       "favorited": false
     }
-  ]
+  ],
+  "user/login": [
+  ],
+  "user": [
+    ],
 }
